@@ -13,7 +13,6 @@ public class Test {
 
     // Check if the folder exists
     if (folder.exists() && folder.isDirectory()) {
-      // List all files in the folder
       File[] files = folder.listFiles();
 
       if (files != null) {
