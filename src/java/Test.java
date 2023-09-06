@@ -16,7 +16,6 @@ public class Test {
       // List all files in the folder
       File[] files = folder.listFiles();
 
-      // Print all file names
       if (files != null) {
         for (File file : files) {
           System.out.println(file.getName());
