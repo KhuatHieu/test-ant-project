@@ -23,7 +23,7 @@ public class Test {
         }
       }
     } else {
-      System.out.println("The specified folder does not exist or is not a directory.");
+      System.out.println("The specified folder.");
     }
   }
 }
