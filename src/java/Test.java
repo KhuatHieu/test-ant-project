@@ -22,8 +22,6 @@ public class Test {
           System.out.println(file.getName());
         }
       }
-    } else {
-      System.out.println("The specified folder.");
     }
   }
 }
